@@ -1,2 +1,2 @@
-# RTZL-luomuPIMS
-洛钼PIMS移动端。
+# RTZL-LuomuPIMS
+洛钼的移动端app。
